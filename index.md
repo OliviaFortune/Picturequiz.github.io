@@ -7,7 +7,7 @@
 <h1 Pick your favourite season /h1>
 
 Pick you favorite season.<div class="container">
-  <img src="Trythisone/snow.jpg" alt="Snow" style="width:20%">
+  <img src="Trythisone/Snow.jpeg" alt="Snow" style="width:20%">
   <button type="button" onclick="Winter()">Winter</button>
   <img src="Trythisone/sun.jpg" alt="Sun" style="width:20%">
   <button type="button" onclick="Summer()">Summer</button>
