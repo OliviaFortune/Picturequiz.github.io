@@ -9,7 +9,7 @@
 Pick you favorite season.<div class="container">
   <img src="Trythisone/Snow.jpeg" alt="Snow" style="width:20%">
   <button type="button" onclick="Winter()">Winter</button>
-  <img src="Trythisone/sun.jpg" alt="Sun" style="width:20%">
+  <img src="Trythisone/Sun.jpg" alt="Sun" style="width:20%">
   <button type="button" onclick="Summer()">Summer</button>
   <img src="Trythisone/Autumn.jpg" alt="Autumn" style="width:20%">
    <button type="button" onclick="Autumn()">Autumn</button>
