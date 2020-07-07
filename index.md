@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1 Pick your favourite season /h1>
+<H1 Pick your favourite season /H1>
 
 Pick you favorite season.<div class="container">
   <img src="Trythisone/Snow.jpeg" alt="Snow" style="width:20%">
